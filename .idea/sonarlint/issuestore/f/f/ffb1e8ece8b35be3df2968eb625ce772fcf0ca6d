@@ -1,0 +1,11 @@
+
+{	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ‰½¯şÿÿÿÿ8ù÷×¾.
+e
+java:S1874."CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Ÿ‰½¯şÿÿÿÿ8³ëó¾.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ñõîÙşÿÿÿÿ8›ğ˜­¾.
+e
+java:S11927"HDefine a constant instead of duplicating this literal "apply: " 4 times.(ÎªÛê8«´«¾.
+n
+java:S11924"LDefine a constant instead of duplicating this literal "dexElements" 3 times.(…¹ÜÚùÿÿÿÿ8³±ï¾.
+a	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(›ÌÍy8·¾ïÜ¾.

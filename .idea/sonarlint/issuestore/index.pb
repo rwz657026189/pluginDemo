@@ -1,0 +1,23 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+S
+#plugin/src/main/AndroidManifest.xml,5\4\54877853c41da776655484754bd53db3b81add14
+C
+plugin/build.gradle,6\9\69950fb645e517a9d99df4f7dd3355c8cadc05e8
+]
+-plugin/src/main/java/com/rwz/plugin/Test.java,3\5\358d977d3de778c323a89384c8c83d1b97c47a9f
+`
+0app/src/main/java/com/rwz/host/MainActivity.java,8\6\863a7d7841de1f7eb54de4b1929567a61f314ecb
+c
+3app/src/main/java/com/rwz/host/BaseApplication.java,f\f\ffb1e8ece8b35be3df2968eb625ce772fcf0ca6d
+g
+7app/src/main/java/com/rwz/host/PlaceholderActivity.java,5\6\56ed0db8acc495c4c11a3d72d79c4ec3f888c972
+g
+7plugin/src/main/java/com/rwz/plugin/PluginActivity.java,8\4\8493d7b505ce1bfc55624bc487595a8fda504cb7
+_
+/app/src/main/java/com/rwz/host/ReflectUtil.java,1\5\158cc94ad78bef76e7daad901ec4caac4b512a93
+\
+,app/src/main/java/com/rwz/host/HookUtil.java,c\1\c1c2f5efc9cb26bff486626d91cdd6158084298c
